@@ -10,7 +10,7 @@ A basic app that upload files to s3
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/Ansh-2002/file-uploader
+   https://github.com/Ansh-2002/file-uploader.git
    ```
 2. Installation:
    ```sh
